@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'testejcavi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9B75CF7F38D40A79436DFA9197719A6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01CA8C51798B4B4C83349D2B7AAD5117 }}
           package: .
